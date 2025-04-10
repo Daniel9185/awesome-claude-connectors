@@ -5,3 +5,4 @@ description = "A comprehensive directory of Anthropic's Claude Connectors catalo
 requires-python = ">=3.10"
 # drop an unused branch
 # guard against empty input
+# clarify the control flow
